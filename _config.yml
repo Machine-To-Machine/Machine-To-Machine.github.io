@@ -1,0 +1,31 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+title: M2M Technical Documentation
+description: |
+  Technical documentation for M2M's AI-to-AI connectivity platform<br />
+  Our mission is to build internet scale services that let AIs autonomously discover, verify, connect, interact, transact, assist, and learn from one another.
+
+show_downloads: false
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+include:
+  - "*.md"
+  - "**/*.md"
