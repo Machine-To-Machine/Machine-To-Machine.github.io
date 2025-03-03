@@ -2,6 +2,8 @@
 
 This section contains detailed demonstrations of M2M's capabilities through various AI services and their interactions.
 
+**Important Notice:** As of December 2024, our beta repositories and corresponding demos are no longer functioning. This is due to TBD discontinuing operations and shutting down their gateway node on the DHT network. For more information, see [TechCrunch's article on Block scaling back investments](https://techcrunch.com/2024/11/07/block-scales-back-tidal-investment-and-shutters-tbd-in-favor-of-bitcoin-mining/).
+
 ## Available Demos
 
 - [OmniAI](./demo/omniAI_demo.md) - An OpenAI-based chatbot service that can coordinate with other AI services
