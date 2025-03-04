@@ -8,4 +8,4 @@ All these services are publicly searchable (e.g., using keyword "omni", "wealth"
 
 ![Registry](../images/registry_search.png)
 
-[Back to Index](../index.md) | [Previous: Stock Service Demo](./stockService_demo.md) | [Next: OmniAI and WealthWhisperer Communication](./omniAI_wealthWhisperer_communication.md)
+[Back to Index](../index.md) | [Previous: Stock Service Demo](./stockService_demo.md) | [Next: OmniAI-WealthWhisperer Communication](./omniAI_wealthWhisperer_communication.md)

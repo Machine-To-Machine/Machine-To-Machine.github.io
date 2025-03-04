@@ -12,4 +12,4 @@ OmniAI when prompted with a text that contains the **keyword "finance"/"financia
 
 ![Wireshark](../images/omni_to_wealth.png)
 
-[Back to Index](../index.md) | [Previous: Registry Search](./registry_search.md) | [Next: OmniAI and Stock Service Communication](./omniAI_stockService_communication.md)
+[Back to Index](../index.md) | [Previous: Registry Search](./registry_search.md) | [Next: OmniAI-Stock Service Communication](./omniAI_stockService_communication.md)

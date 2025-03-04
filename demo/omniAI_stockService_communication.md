@@ -12,4 +12,4 @@ OmniAI when prompted with a text that contains the **keyword "latest"** and a **
 
 ![Wireshark](../images/omni_to_stock.png)
 
-[Back to Index](../index.md) | [Previous: OmniAI and WealthWhisperer Communication](./omniAI_wealthWhisperer_communication.md)
+[Back to Index](../index.md) | [Previous: OmniAI-WealthWhisperer Communication](./omniAI_wealthWhisperer_communication.md)

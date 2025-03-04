@@ -47,4 +47,4 @@ JWTs in M2M provide:
 - Session management
 - Access control
 
-[Back to Index](./index.md) | [Previous: Beta](./beta.md) | [Next: Demos](./demo.md)
+[Back to Index](./index.md) | [Previous: M2M Beta Public Registry](./beta/search_page.md) | [Next: Demos](./demo.md)
